@@ -1,4 +1,4 @@
 1 hour: Git
 30 minutes: English
 3.5 hours: Linux videos
-1 hour: IP addresses and domain names
+1 hour: IP addresses and domain name
